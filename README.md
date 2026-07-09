@@ -74,3 +74,7 @@ Various tools and links that don't fit into other categories but are useful for 
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. Unofficial, not affiliated with the developer.
