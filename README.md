@@ -70,6 +70,7 @@ Podcasts and YouTube channels focused on board games.
 Various tools and links that don't fit into other categories but are useful for the board game community.
 
 - [Protospiel](https://protospiel.online/) - Events dedicated to playtesting board game prototypes, connecting designers and players.
+- [RandomGeneratr](https://randomgeneratr.com/) - Generate fictional character and place names for narrative board-game prototypes.
 
 ## Contributing
 
